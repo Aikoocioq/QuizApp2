@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">PRAWDA</string>
+    <string name="button_false">FAŁSZ</string>
+    <string name="button_next">NASTĘPNE</string>
+    <string name="q_zimorodek">Nazwa `zimorodek` wzięła się stąd, że ptak ten wykluwa się zimą.</string>
+    <string name="q_bocian">Większość polskich bocianów zimuje na terenach Afryki.</string>
+    <string name="q_oskub">`Oskub` to pióra pozostawione po oskubaniu ptaka przez innego ptaka. Natomiast `zgryzem` nazywamy pióra pozostawione po oskubaniu ptaka przez ssaka (np. lisa).</string>
+    <string name="q_sowa">Sowy są jedynymi ptakami, które pozostawiają po sobie wypluwki.</string>
+    <string name="q_zolna">Żołna to bardzo kolorowy ptak, który zamieszkuje tereny Polski.</string>
+    <string name="q_piora">Największe pióra ptasich skrzydeł noszą nazwę `sterówek`, a pióra ogona to `lotki`.</string>
+    <string name="correct_answer">Gratulacje! Odpowiedź poprawna!</string>
+    <string name="incorrect_answer">Niestety, błędna odpowiedź!</string>
+</resources>
