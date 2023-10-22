@@ -11,4 +11,8 @@
     <string name="q_piora">Największe pióra ptasich skrzydeł noszą nazwę `sterówek`, a pióra ogona to `lotki`.</string>
     <string name="correct_answer">Gratulacje! Odpowiedź poprawna!</string>
     <string name="incorrect_answer">Niestety, błędna odpowiedź!</string>
+    <string name="confirmation">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="button_confirm">Pokaż odpowiedź</string>
+    <string name="button_hint">PODPOWIEDŹ</string>
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
 </resources>

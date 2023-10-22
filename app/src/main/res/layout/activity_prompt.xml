@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".PromptActivity">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="top|left"
+        android:background="#1E4557"
+        android:fontFamily="@font/allerta"
+        android:paddingLeft="25dp"
+        android:paddingTop="12dp"
+        android:text="Quiz"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/confirmation_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/confirmation"
+            android:padding="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/answer_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Odpowiedź"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/confirm_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#969696"
+            android:textColor="#000000"
+            android:layout_margin="20dp"
+            android:textStyle="bold"
+            android:text="@string/button_confirm" />
+
+    </LinearLayout>
+</LinearLayout>
