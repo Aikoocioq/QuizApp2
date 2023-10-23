@@ -147,6 +147,7 @@ private boolean answerWasShown;
         int resultMessageId = 0;
         if (answerWasShown) {
             resultMessageId = R.string.answer_was_shown;
+            answerWasShown = false;
         }
         else {
             if (userAnswer == correctAnswer) {
