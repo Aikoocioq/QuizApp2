@@ -53,5 +53,13 @@
             android:textStyle="bold"
             android:text="@string/button_confirm" />
 
+        <Button
+            android:id="@+id/back_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#969696"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:text="@string/button_back" />
     </LinearLayout>
 </LinearLayout>

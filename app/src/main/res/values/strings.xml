@@ -14,5 +14,6 @@
     <string name="confirmation">Czy na pewno chcesz zobaczyć odpowiedź?</string>
     <string name="button_confirm">Pokaż odpowiedź</string>
     <string name="button_hint">PODPOWIEDŹ</string>
+    <string name="button_back">COFNIJ</string>
     <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
 </resources>
